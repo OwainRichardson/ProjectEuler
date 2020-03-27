@@ -9,7 +9,7 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            List<int> puzzles = new List<int> { 10 };
+            List<int> puzzles = new List<int> { 14 };
 
             foreach (int p in puzzles)
             {

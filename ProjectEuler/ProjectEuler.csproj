@@ -5,4 +5,14 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Data\P_011.txt" />
+    <None Remove="Data\P_013.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Data\P_013.txt" />
+    <Content Include="Data\P_011.txt" />
+  </ItemGroup>
+
 </Project>
