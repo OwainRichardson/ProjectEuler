@@ -1,0 +1,13 @@
+G:\OwainGIT\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.exe
+G:\OwainGIT\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.deps.json
+G:\OwainGIT\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.runtimeconfig.json
+G:\OwainGIT\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.runtimeconfig.dev.json
+G:\OwainGIT\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.dll
+G:\OwainGIT\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp3.1\ProjectEuler.pdb
+G:\OwainGIT\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.csprojAssemblyReference.cache
+G:\OwainGIT\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.AssemblyInfoInputs.cache
+G:\OwainGIT\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.AssemblyInfo.cs
+G:\OwainGIT\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.csproj.CoreCompileInputs.cache
+G:\OwainGIT\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.dll
+G:\OwainGIT\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.pdb
+G:\OwainGIT\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.genruntimeconfig.cache
