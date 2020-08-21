@@ -9,15 +9,15 @@ C:\Work\Misc Projects\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectE
 C:\Work\Misc Projects\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.AssemblyInfo.cs
 C:\Work\Misc Projects\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.dll
 C:\Work\Misc Projects\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.pdb
-C:\Personal\Projects\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.csprojAssemblyReference.cache
-C:\Personal\Projects\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.AssemblyInfoInputs.cache
-C:\Personal\Projects\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.AssemblyInfo.cs
-C:\Personal\Projects\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.csproj.CoreCompileInputs.cache
-C:\Personal\Projects\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.dll
-C:\Personal\Projects\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.pdb
-C:\Personal\Projects\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.2\ProjectEuler.deps.json
-C:\Personal\Projects\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.2\ProjectEuler.runtimeconfig.json
-C:\Personal\Projects\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.2\ProjectEuler.runtimeconfig.dev.json
-C:\Personal\Projects\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.2\ProjectEuler.dll
-C:\Personal\Projects\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.2\ProjectEuler.pdb
-C:\Personal\Projects\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.genruntimeconfig.cache
+G:\OwainGIT\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.2\ProjectEuler.deps.json
+G:\OwainGIT\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.2\ProjectEuler.runtimeconfig.json
+G:\OwainGIT\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.2\ProjectEuler.runtimeconfig.dev.json
+G:\OwainGIT\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.2\ProjectEuler.dll
+G:\OwainGIT\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.2\ProjectEuler.pdb
+G:\OwainGIT\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.csprojAssemblyReference.cache
+G:\OwainGIT\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.AssemblyInfoInputs.cache
+G:\OwainGIT\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.AssemblyInfo.cs
+G:\OwainGIT\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.csproj.CoreCompileInputs.cache
+G:\OwainGIT\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.dll
+G:\OwainGIT\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.pdb
+G:\OwainGIT\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.2\ProjectEuler.genruntimeconfig.cache

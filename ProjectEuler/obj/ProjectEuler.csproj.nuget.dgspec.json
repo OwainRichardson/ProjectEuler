@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Personal\\Projects\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj": {}
+    "G:\\OwainGIT\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj": {}
   },
   "projects": {
-    "C:\\Personal\\Projects\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj": {
+    "G:\\OwainGIT\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\Projects\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj",
+        "projectUniqueName": "G:\\OwainGIT\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj",
         "projectName": "ProjectEuler",
-        "projectPath": "C:\\Personal\\Projects\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj",
-        "packagesPath": "C:\\Users\\Owain.Richardson\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\Projects\\ProjectEuler\\ProjectEuler\\obj\\",
+        "projectPath": "G:\\OwainGIT\\ProjectEuler\\ProjectEuler\\ProjectEuler.csproj",
+        "packagesPath": "C:\\Users\\Owain\\.nuget\\packages\\",
+        "outputPath": "G:\\OwainGIT\\ProjectEuler\\ProjectEuler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Owain.Richardson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Owain\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
